@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpzpj
 - 👀 I’m interested in C#, Unity, VR/AR/MR
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and Unity ML-Agents
 <!--- 💞️ I’m looking to collaborate on ... 
 --->
 - 📫 Send an email to zeemanj@hotmail.com
